@@ -2,7 +2,6 @@
   <h2>👋 Hello there!</h1>
   <h4>📚 I completed my studies at SWitCH(Dev) at ISEP, Porto.</h4>
   <h4>💻 I’m dedicated to software development and to continually explore new technologies to advance my skills.</h4>
-  <h4>🌱 I’m currently studying Event-Driven Architecture.</h4>
 </div>
 
 <br>
